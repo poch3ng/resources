@@ -51,8 +51,12 @@ This is the library of my favorite projects on github and I want to organize the
  - [**`rembg`**](https://github.com/danielgatis/rembg) &ndash; Remove photo background tool
  - [`merge-images`](https://github.com/lukechilds/merge-images) &ndash; Merge images tool
  
+## Useful tool for making 3D
+ - [`blender`](https://www.blender.org/) &ndash; Open source 3D creation
+ - [`sketchfab`](https://sketchfab.com/) &ndash; 3D models platform
+ - [`unity`](https://unity.com/)
+
 ## Others
 - [`front-end-interview-handbook`](https://github.com/yangshun/front-end-interview-handbook) &ndash; Front-end Interview Questions
 
-
-
+Author Chiu, Po-Cheng
