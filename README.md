@@ -58,5 +58,3 @@ This is the library of my favorite projects on github and I want to organize the
 
 ## Others
 - [`front-end-interview-handbook`](https://github.com/yangshun/front-end-interview-handbook) &ndash; Front-end Interview Questions
-
-Author Chiu, Po-Cheng
