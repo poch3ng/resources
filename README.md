@@ -40,6 +40,7 @@ This is the library of my favorite projects on github and I want to organize the
  - [`cyclegan-and-pix2pix`](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
  - [`stylegan`](https://github.com/NVlabs/stylegan)
  - [`stylegan2`](https://github.com/NVlabs/stylegan2)
+ - [**`iPERDance`**](https://github.com/iPERDance/iPERCore) &ndash; Human motion by images
  
  ### Model Construct
  - [**`AvatarMe`**](https://github.com/lattas/AvatarMe)
@@ -50,6 +51,7 @@ This is the library of my favorite projects on github and I want to organize the
  ### Remove Background Tools
  - [**`rembg`**](https://github.com/danielgatis/rembg) &ndash; Remove photo background tool
  - [`merge-images`](https://github.com/lukechilds/merge-images) &ndash; Merge images tool
+ - [**`BackgroundMattingV2`**](https://github.com/PeterL1n/BackgroundMattingV2) &ndash; Real-Time High Resolution Background Matting
  
 ## Useful tool for making 3D
  - [`blender`](https://www.blender.org/) &ndash; Open source 3D creation
